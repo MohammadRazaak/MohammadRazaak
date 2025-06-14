@@ -20,7 +20,7 @@ I’m a passionate Full-Stack Developer specializing in **MERN** and **Node.js/P
 
 ## 📫 Reach Me
 - **LinkedIn**: [linkedin.com/in/mohammadrazak-abdulrasheeth](https://www.linkedin.com/in/mohammadrazak-abdulrasheeth/)
-- **Email**: your-email@example.com
+- **Email**: mrazak338@gmail.com
 - **Portfolio**: [Mohammad Razak A](https://mohammadrazak.xyz)
 
 ## 😄 Pronouns

@@ -1,4 +1,4 @@
-# <div align="center">HI 👋, I'm Mohammad Razak A</div>
+# <div align="center">🚀 Mohammad Razak A</div>
 
 <div align="center">
   
@@ -27,12 +27,12 @@ const developer = {
   name: "Mohammad Razak A",
   role: "Full-Stack Developer",
   company: "ValueMomentum",
-  location: "Chennai, India 🇮🇳",
+  location: "Coimbatore, India 🇮🇳",
   
   skills: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Redux"],
     backend: ["Node.js", "Express", "Socket.IO", "Prisma"],
-    database: ["MongoDB", "PostgreSQL"],
+    database: ["MongoDB", "PostgreSQL", "MySQL"],
     cloud: ["Firebase", "Vercel", "Netlify"],
     mobile: ["PWA", "React Native (learning)"]
   },

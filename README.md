@@ -75,7 +75,7 @@ const developer = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25b6-4ae3-aff7-8f0fd5d2b590.png" width="30"> **Featured Projects**
+## <img src="https://user-images.githubusercontent.com/12532091/135542114-0dc6044b-43d2-455e-b7fe-85b838b69a2b.gif" width="30"> **Featured Projects**
 
 <div align="center">
   

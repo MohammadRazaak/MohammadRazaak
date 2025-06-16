@@ -1,4 +1,4 @@
-# <div align="center">🚀 Mohammad Razak A</div>
+# <div align="center"> Hi 👋, I'm Mohammad Razak A</div>
 
 <div align="center">
   
